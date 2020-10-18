@@ -1,3 +1,4 @@
+import random
 import urllib
 import time
 import json
@@ -9,7 +10,7 @@ URL = BaseURL + "/Hotels-g304554-Mumbai_Maharashtra-Hotels.html"
 
 D = []
 
-for pages in range(5):
+for pages in range(2):
 	time.sleep(5)
 	html_doc = urllib.request.urlopen(URL)
 
@@ -20,8 +21,8 @@ for pages in range(5):
 			Dict = x["data-hotels-data"]
 
 
-	pagination = soup.find_all("a", {"class": "nav next ui_button primary cx_brand_refresh_phase2"})
-	URL = BaseURL + pagination[0]['href']
+	pagination = soup.find("a", {"class": "nav next ui_button primary cx_brand_refresh_phase2"})
+	URL = BaseURL + pagination['href']
 
 
 	Dict = json.loads(Dict)
@@ -29,7 +30,13 @@ for pages in range(5):
 	# Check the price
 
 	for hotel in Dict["hotels"]:
-		D.append({'Name':hotel['name'], 'Latitude':hotel['geoPoint']['latitude'], 'Longitude':hotel['geoPoint']['longitude'], 'Price':hotel['offers'][0]['price']})
+		detailsURL = BaseURL + hotel['detailUrl']
+		detailsDoc = urllib.request.urlopen(detailsURL)
+		soup = BeautifulSoup(detailsDoc, 'html.parser')
+		rating = soup.find("span", {"class": "_3cjYfwwQ"}).text
+		print(rating)
+		D.append({'Name':hotel['name'], 'Latitude':hotel['geoPoint']['latitude'], 'Longitude':hotel['geoPoint']['longitude'], 'Rating':rating, 'Price':hotel['offers'][0]['price']})
+		time.sleep(random.randint(1,5))
 
 	print("Page",pages+1,"completed.")
 

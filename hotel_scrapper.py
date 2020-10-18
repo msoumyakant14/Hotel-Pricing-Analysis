@@ -30,12 +30,27 @@ for pages in range(2):
 	# Check the price
 
 	for hotel in Dict["hotels"]:
+		print(hotel['name'])
 		detailsURL = BaseURL + hotel['detailUrl']
 		detailsDoc = urllib.request.urlopen(detailsURL)
 		soup = BeautifulSoup(detailsDoc, 'html.parser')
 		rating = soup.find("span", {"class": "_3cjYfwwQ"}).text
 		print(rating)
-		D.append({'Name':hotel['name'], 'Latitude':hotel['geoPoint']['latitude'], 'Longitude':hotel['geoPoint']['longitude'], 'Rating':rating, 'Price':hotel['offers'][0]['price']})
+		reviews = soup.find("span", {"class": "_3jEYFo-z"}).text.split()[0]
+		print(reviews)
+		amenities = soup.find_all("div", {"class": "_2rdvbNSg"})
+		amenities_set = set([])
+		for a in amenities:
+			amenities_set.add(a.text)
+		if 'Air conditioning' in amenities_set:
+			AC = 1
+		else:
+			AC = 0
+		if 'Room service' in amenities_set:
+			RS = 1
+		else:
+			RS = 0
+		D.append({'Name':hotel['name'], 'Latitude':hotel['geoPoint']['latitude'], 'Longitude':hotel['geoPoint']['longitude'], 'Room service available':RS, 'AC rooms':AC, 'Rating':rating, 'Number of reviews':reviews, 'Price':hotel['offers'][0]['price']})
 		time.sleep(random.randint(1,5))
 
 	print("Page",pages+1,"completed.")

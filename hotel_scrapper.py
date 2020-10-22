@@ -12,7 +12,7 @@ D = []
 
 f = open("hotel_backup.csv", "w")
 f.write('Name,Latitude,Longitude,Air conditioning,Housekeeping,Private balcony,Private bathrooms,VIP room facilities,Complimentary toiletries,Room service,Telephone,Minibar,Flatscreen TV,Wifi,Pool,Bar / lounge,Poolside bar,Free parking,Breakfast available,Restaurant,Airport transportation,Car hire,Taxi service,Banquet room,Meeting rooms,Conference facilities,Spa,Sauna,Currency exchange,24-hour security,Concierge,Baggage storage,Sun terrace,Shops,Butler service,First aid kit,Infirmary,24-hour front desk,Private check-in / check-out,Express check-in / check-out,Dry cleaning,Laundry service,Shoeshine,Ocean view,City view,Landmark view,Pool view,Non-smoking rooms,Smoking rooms available,Suites,Rating,Number of reviews,Price\n')
-for pages in range(70):
+for pages in range(15):
 	time.sleep(5)
 	html_doc = urllib.request.urlopen(URL)
 
@@ -54,9 +54,7 @@ for pages in range(70):
 			pass
 
 	print("Page",pages+1,"completed.")
-	df = pd.DataFrame(D)
-	df = df.dropna()
-	df.to_csv("hotels.csv", index=False)
+
 
 df = pd.DataFrame(D)
 

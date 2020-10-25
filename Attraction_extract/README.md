@@ -1,4 +1,4 @@
-###Step 1: 
+### Step 1: 
 
 Look up the city on Tripadvisor.
 

@@ -28,6 +28,6 @@ The URL of this page is what we require. In the following image, the URL https:/
 
 ### Step 5:
 
-Use the python script in the following manner (the number of pages and URL are the arguments):
+Use the python script in the following manner (the number of pages and URL are the arguments. The number of pages we have decided on are 4, and thus we will get 120 attractions per city):
 
-python3 Attraction_extract.py 3 https://www.tripadvisor.in/Attractions-g304558-Activities-a_allAttractions.true-Kolkata_Calcutta_Kolkata_District_West_Bengal.html
+python3 Attraction_extract.py 4 https://www.tripadvisor.in/Attractions-g304558-Activities-a_allAttractions.true-Kolkata_Calcutta_Kolkata_District_West_Bengal.html

@@ -70,7 +70,8 @@ for i in range(total_page_count):
 		df_list.append(intermediate_list)
 
 df = pd.DataFrame(df_list, columns = ['Name', 'Latitude','Longitude','Review Count','Review Score','Category Id', 'Category Type'])
-
+df = df.dropna()
+df = df.reset_index(drop=True)
 df.to_csv('attractions.csv',index=False)
 
 

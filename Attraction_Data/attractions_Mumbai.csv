@@ -1,7 +1,7 @@
 Name,Latitude,Longitude,Review Count,Review Score,Category Id,Category Type
 Marine Drive,18.933191,72.82323,8166,4.5,61;47,Outdoor Activities;Sights and Landmarks
 Bandra-Worli Sea Link,19.031445,72.81612,9507,4.5,47,Sights and Landmarks
-Gateway of India,18.921997,72.83457,12425,4.0,47,Sights and Landmarks
+Gateway of India,18.921997,72.83457,12426,4.0,47,Sights and Landmarks
 Kanheri Caves,19.205887,72.90686,1238,4.5,57;47,Nature and Parks;Sights and Landmarks
 Global Vipassana Pagoda,19.22823,72.805855,785,4.5,47,Sights and Landmarks
 Shree Siddhivinayak,19.016773,72.83037,5583,4.5,47,Sights and Landmarks
@@ -27,7 +27,7 @@ Mahalakshmi Temple,18.97802,72.81111,1322,4.5,47,Sights and Landmarks
 Snow Kingdom,19.100601,72.91598,101,4.5,52,Water and Amusement Parks
 High Street Phoenix,18.994236,72.824455,434,4.5,26,Shopping
 Mount Mary Basilica,19.04647,72.82233,1445,4.5,47,Sights and Landmarks
-Babulnath Temple,18.95726,72.80866,535,4.5,47,Sights and Landmarks
+Babulnath Temple,18.95726,72.80866,536,4.5,47,Sights and Landmarks
 Juhu Beach,19.104763,72.82393,2292,3.5,57;61,Nature and Parks;Outdoor Activities
 Oberoi Mall,19.17405,72.86032,288,4.5,26,Shopping
 Aksa Beach,19.2367,72.84174,280,4.0,57;61,Nature and Parks;Outdoor Activities
@@ -74,7 +74,6 @@ Amarsons Garden,18.9684,72.80363,27,4.5,57,Nature and Parks
 Girgaum Chowpatty,18.953798,72.813965,128,4.0,57;61,Nature and Parks;Outdoor Activities
 Powai Lake,19.126839,72.9062,284,3.5,57,Nature and Parks
 Sri Sri Radha Rasabihari Ji Temple,19.13849,72.82566,308,4.5,47,Sights and Landmarks
-Jio Garden,,,15,4.5,57,Nature and Parks
 Loyalty Lounge,19.097261,72.87503,201,3.0,60,Traveller Resources
 Boot House,18.95302,72.80111,35,3.5,47,Sights and Landmarks
 Taraporewala Aquarium,18.94913,72.81997,355,3.0,48;57,Zoos and Aquariums;Nature and Parks
@@ -85,10 +84,8 @@ Snow World Mumbai,19.086561,72.88868,145,3.5,52,Water and Amusement Parks
 Royal Opera House,18.956244,72.81568,62,4.0,58,Concerts and Shows
 Uttan Beach,19.3005,72.84803,33,4.0,57;61,Nature and Parks;Outdoor Activities
 Mangaldas Market,18.94767,72.83169,61,4.0,26,Shopping
-Andharban,,,12,4.5,47,Sights and Landmarks
 Kala Ghoda Art Precinct,19.16323,72.84114,52,4.5,47,Sights and Landmarks
 Maharashtra Nature Park,19.05148,72.85861,34,4.0,57,Nature and Parks
-Tejas Express,,,66,3.5,59,Transportation
 Raj Bhavan,18.94512,72.79409,15,4.5,47,Sights and Landmarks
 National Centre for the Performing Arts,18.92512,72.82056,116,4.5,58,Concerts and Shows
 Keneseth Eliyahoo Synagogue,18.92824,72.83288,45,4.0,47,Sights and Landmarks

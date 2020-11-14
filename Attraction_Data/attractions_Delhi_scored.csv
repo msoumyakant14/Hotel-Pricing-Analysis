@@ -1,0 +1,112 @@
+Name,Latitude,Longitude,Review Count,Review Score,Category Id,Category Type,Attraction Score
+Qutub Minar,28.524527000000006,77.18548,13154,4.5,47,Sights and Landmarks,9.5
+Swaminarayan Akshardham,28.612679,77.27726,11789,4.5,57;47,Nature and Parks;Sights and Landmarks,9.5
+Gurudwara Bangla Sahib,28.626291,77.20926999999998,6788,4.5,47,Sights and Landmarks,9.5
+Humayun's Tomb,28.593233,77.250755,10435,4.5,47,Sights and Landmarks,9.5
+Lodhi Garden,28.59633,77.22161,4117,4.5,57,Nature and Parks,9.5
+Delhi Airport Metro Express,28.64063,77.22249599999998,2650,4.5,59,Transportation,9.5
+Chandni Chowk,28.656,77.23100000000002,4404,4.0,26,Shopping,9.0
+India Gate,28.612926,77.22951,10274,4.0,47,Sights and Landmarks,9.0
+Mughal Garden,28.61747,77.20273,656,4.5,57,Nature and Parks,9.14
+Rashtrapati Bhavan,28.6135,77.21863,1762,4.5,47,Sights and Landmarks,9.5
+Red Fort,28.655832,77.24028,5490,4.0,47,Sights and Landmarks,9.0
+Sunder Nursery,28.599970000000006,77.26038,131,5.0,57,Nature and Parks,7.04
+Select Citywalk,28.528734000000004,77.21931500000002,629,4.5,26,Shopping,9.1
+Lotus Temple,28.55302,77.26174,6969,4.0,47,Sights and Landmarks,9.0
+Hauz Khas Village,28.554247,77.19447,1592,4.5,51;47,Other;Sights and Landmarks,9.49
+National Rail Museum,28.585604,77.17990999999998,718,4.0,49,Museums,8.72
+Sarojini Nagar Market,28.577518,77.195915,459,4.0,26,Shopping,8.2
+Gandhi Smriti,28.601852,77.21399,1868,4.5,49,Museums,9.5
+Raj Ghat,28.640553000000004,77.24951999999998,1462,4.0,47,Sights and Landmarks,8.99
+Dilli Haat,28.573265000000006,77.2064,1056,4.0,26,Shopping,8.93
+Delhi Metro,28.65527,77.22524,1392,4.5,59,Transportation,9.48
+ISKCON Temple Delhi,28.555967,77.25378,1161,4.5,47,Sights and Landmarks,9.45
+National Gandhi Museum,28.638890000000004,77.24605,617,4.5,49,Museums,9.08
+DLF Promenade Mall,28.542583,77.155975,347,4.5,26,Shopping,8.25
+Pacific Mall,28.642382,77.10656999999998,220,4.5,26,Shopping,7.43
+Birla Mandir Temple (Lakshmi Narayan),28.632498,77.19919,1243,4.5,47,Sights and Landmarks,9.47
+Madame Tussauds Delhi,28.632627000000006,77.21979499999998,132,4.0,49,Museums,6.05
+Gurudwara Sis Ganj Sahib,28.628664,77.13348,830,4.5,47,Sights and Landmarks,9.32
+National Museum,28.611988,77.219185,733,4.0,49,Museums,8.73
+Indira Gandhi Memorial Museum,28.6,77.20611600000002,551,4.5,49,Museums,8.95
+Agrasen Ki Baoli - Leamigo,28.625,77.22504,461,4.0,47,Sights and Landmarks,8.21
+Connaught Place,28.631945,77.219444,3617,4.0,47,Sights and Landmarks,9.0
+Majnu ka Tilla,28.702790000000004,77.22797,172,4.5,47,Sights and Landmarks,6.99
+Waste to Wonder Park,28.69306,77.26315,37,4.5,57;47,Nature and Parks;Sights and Landmarks,5.19
+Chhatarpur Temple,28.500982,77.17934,615,4.5,47,Sights and Landmarks,9.07
+Mehrauli Archaeological Park,28.51661,77.18857,314,4.5,47,Sights and Landmarks,8.08
+Crafts Museum,28.613726,77.24212,272,4.0,49,Museums,7.32
+National Gallery of Modern Art,28.609692,77.23427,371,4.5,49,Museums,8.37
+Rajpath,28.613123,77.222755,1333,4.5,47,Sights and Landmarks,9.48
+Karol Bagh,28.64678,77.18955,199,4.0,51;47,Other;Sights and Landmarks,6.74
+Nehru Park,28.60108,77.19337,150,4.0,57,Nature and Parks,6.26
+Hanuman Temple / Statue,28.644943,77.19794,219,4.0,47,Sights and Landmarks,6.92
+National Science Centre,28.613165,77.24564000000002,138,4.0,49,Museums,6.12
+Indian Air Force Museum,28.57426,77.11623399999998,98,4.0,49,Museums,5.62
+Purana Qila,28.60945,77.244415,522,4.0,47,Sights and Landmarks,8.38
+Jawaharlal Nehru Stadium,28.586240000000004,77.23068,67,4.0,56,Fun and Games,5.18
+India International Centre,28.593536,77.22228,81,4.0,60,Traveller Resources,5.38
+Deer Park,28.56482,77.18916,103,4.0,57,Nature and Parks,5.69
+National Zoological Park of Delhi,28.603422,77.24708000000003,560,3.5,48;57;61,Zoos and Aquariums;Nature and Parks;Outdoor Activities,7.97
+Plaza Premium Lounge,28.554947,77.08386999999998,498,3.5,60,Traveller Resources,7.82
+Friday Mosque (Jama Masjid),28.650682,77.23344399999998,2324,3.5,47,Sights and Landmarks,8.5
+Central Park,28.633090000000006,77.21944,148,4.0,57,Nature and Parks,6.23
+Hazrat Nizamuddin Darga,28.59025,77.24586,381,4.0,47,Sights and Landmarks,7.91
+Paharganj,28.648092,77.21292,378,3.5,51;47,Other;Sights and Landmarks,7.4
+Safdarjung's Tomb,28.589262,77.21089,415,4.0,47,Sights and Landmarks,8.05
+Buddha Jayanti Park,28.62651,77.23169,40,4.0,57,Nature and Parks,4.74
+Children's Park,28.61253,77.23731,333,4.0,56;57,Fun and Games;Nature and Parks,7.68
+Adventure Island,28.723824,77.11355,290,4.0,52,Water and Amusement Parks,7.43
+Feroz Shah Kotla Stadium,28.637798,77.243546,94,4.0,47,Sights and Landmarks,5.57
+The Chanakya,28.58435,77.19066,48,4.5,26,Shopping,5.37
+National War Memorial,28.612713,77.232635,35,4.5,47,Sights and Landmarks,5.15
+AeroCity Central,28.551794,77.122116,14,4.5,26,Shopping,4.77
+Garden of Five Senses,28.51366,77.19720500000003,292,3.5,57,Nature and Parks,6.95
+"Malai Mandir, New Delhi",28.5675,77.166145,162,4.5,47,Sights and Landmarks,6.88
+Quwwat-ul-Islam Mosque,28.524775,77.185,58,4.5,47,Sights and Landmarks,5.54
+Waste to Wonders,28.5862,77.25806999999998,37,4.0,47,Sights and Landmarks,4.69
+Sulabh International Museum of Toilets,28.596855,77.08001999999998,88,4.0,49,Museums,5.48
+"Plaza Premium Lounge, Terminal 1D Domestic Departures - Airside",28.556162,77.09996,203,3.5,60,Traveller Resources,6.28
+Metro Walk Mall,28.724192,77.11374,116,4.0,26,Shopping,5.86
+Sai Baba Temple,28.585420000000006,77.22971,251,4.5,47,Sights and Landmarks,7.67
+Jantar Mantar,28.626945000000006,77.21661999999998,704,4.0,49,Museums,8.7
+Gyarah Murti,28.610088,77.19153,70,4.5,47,Sights and Landmarks,5.72
+Vijay Chowk,28.614813,77.20689399999998,74,4.5,47,Sights and Landmarks,5.78
+South Extension Market,28.56907,77.21911,53,4.0,26,Shopping,4.96
+Parliament House,28.628390000000003,77.21654000000002,533,4.0,47,Sights and Landmarks,8.41
+Mangal Mahadev Birla Kanan,28.535557,77.11258000000002,15,4.5,47,Sights and Landmarks,4.79
+Moments Mall,28.656832,77.146385,49,4.0,26,Shopping,4.89
+Gali Paranthe Wali,28.655993,77.23044,283,3.5,47,Sights and Landmarks,6.89
+Hauz Khas District Park,28.553486,77.19366,45,4.0,57,Nature and Parks,4.82
+Atlantic water world,28.545690000000004,77.30951,40,4.0,52,Water and Amusement Parks,4.74
+Nehru Museum & Planetarium (Teen Murti Bhavan),28.602940000000004,77.20195,158,4.0,49;47,Museums;Sights and Landmarks,6.34
+Jamali Kamali Tomb and Mosque,28.519667,77.18726,56,4.0,47,Sights and Landmarks,5.0
+Tughlaqabad Fort,28.514292,77.26012,127,4.0,47,Sights and Landmarks,5.99
+Isa Khan's Tomb,28.592293,77.24620999999998,137,4.0,47,Sights and Landmarks,6.11
+Major Dhyan Chand National Stadium,28.6099,77.22986,32,4.5,47,Sights and Landmarks,5.1
+Pragati Maidan,28.611237,77.24009000000002,47,4.0,60,Traveller Resources,4.86
+Habitat World Convention Centre,28.588873,77.2254,405,4.5,60,Traveller Resources,8.51
+Greater Kailash M Block,28.551064,77.23491999999997,186,4.0,47,Sights and Landmarks,6.62
+Just Chill Water Park,28.690240000000006,77.19243,40,3.0,52,Water and Amusement Parks,3.74
+Sangam Courtyard,28.572370000000006,77.17345999999998,26,4.5,47,Sights and Landmarks,4.99
+Iron Pillar of Delhi,28.52476,77.18493000000002,72,4.0,47,Sights and Landmarks,5.25
+Mirza Ghalib Ki Haveli,28.654432,77.22569,34,4.0,49,Museums,4.64
+Ansal Plaza,28.562756,77.22431,58,3.5,26,Shopping,4.54
+Jhandewalan Temple,28.64922,77.18478,110,4.5,47,Sights and Landmarks,6.28
+Sacred Heart Cathedral,28.628042,77.2067,44,4.5,47,Sights and Landmarks,5.31
+Sri Digambar Jain Lal Mandir,28.70361,77.1464,141,4.0,47,Sights and Landmarks,6.16
+Unity One,28.628767,77.07636,35,4.0,26,Shopping,4.65
+Sanskriti Museum of Everyday Art,28.485365,77.12826,36,4.5,49,Museums,5.17
+Shankar's International Dolls Museum,28.630419,77.24145,165,4.0,49,Museums,6.42
+Siri Fort,28.549973,77.22115,35,4.0,47,Sights and Landmarks,4.65
+Lahori Gate,28.655836,77.2387,51,4.0,47,Sights and Landmarks,4.92
+Feroz Shah Kotla,28.63501,77.24277,61,4.0,47,Sights and Landmarks,5.08
+Ahinsa Sthal,28.51087,77.18135,25,4.5,47,Sights and Landmarks,4.98
+Vasant Square Mall,28.52464,77.16008000000002,34,3.5,26,Shopping,4.14
+Kashmere Gate Monument,28.666613,77.22933,19,4.0,47,Sights and Landmarks,4.37
+National Philatelic Museum,28.62275,77.21328000000003,26,4.5,49,Museums,4.99
+Ramakrishna Mission,28.63683,77.20666,71,4.5,47,Sights and Landmarks,5.74
+Shanti Van,28.64651,77.25461,23,4.0,57,Nature and Parks,4.44
+Hanuman Temple,28.62643,77.2262,52,4.0,47,Sights and Landmarks,4.94
+Lodhi Art District,28.60102,77.22724000000002,13,4.0,47,Sights and Landmarks,4.25
+National Handicrafts and Handlooms Museum,28.613740000000004,77.24235,30,4.0,49,Museums,4.57
